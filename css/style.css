@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.outerbox{
+    margin-top: 180px;
+    width:400px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#03c03c;
+    padding: 45px 10px;
+}
+.innerbox{
+    padding:20px;
+    background-color: white;
+    border-radius: 20px;
+}
+.head{
+    padding: 10px;
+}
+.add{
+    padding: 10px;
+}
+button{
+   color: white;
+   border-radius: 20px;
+   border-style: none;
+}
+.button0{
+    width: 50px;
+    height:22px;
+    background-color: rgb(62, 62, 255);
+   
+}
+ol{
+    margin: 30px;
+    padding: px;
+}
+li{
+    margin: 5px;
+}
+.del
+{
+    background-color: rgb(219, 219, 219);
+}
+.button{
+    margin: 5px;
+    padding: 5px;
+}
+.button1{
+    background-color: rgb(62, 62, 255);
+    width: 125px;
+}
+.button2{
+    background-color: rgb(187, 9, 9);
+    width: 90px;
+}
+.button3{
+    background-color: #03c03c;
+    width: 80px;
+}
